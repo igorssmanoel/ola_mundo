@@ -1,1 +1,2 @@
-# Esse é o README do meu ola mundo
+# Lista de exercícios
+[Exercícios](https://github.com/igorssmanoel/ola_mundo/blob/master/exercicios/README.md)
