@@ -197,7 +197,7 @@ A área do retangulo de 3cm de comprimento e 5cm de largura é 15cm²
 - Ex.: 
     - nota1: 8
     - nota2: 6
-    - media = (nota1/nota2)/2 => (8 + 6) / 2 => 7.00
+    - media = (nota1 + nota2)/2 => (8 + 6) / 2 => 7.00
 
 
 Entradas:
