@@ -302,10 +302,6 @@ Não é maior de idade
 - Como calcular o IMC:
     - IMC = Peso ÷ (Altura × Altura)
 
-- Ex.: 
-    - Se a idade digitada for maior ou igual a 18 exibir a mensagem `É maior de idade`, caso contrário exibir a mensagem `Não é maior de idade`
-
-
 Entradas:
  - Peso (float)
  - Altura (float)
