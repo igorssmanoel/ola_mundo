@@ -1,8 +1,13 @@
-from calculadora import soma, mult, div, sub
-from math import sqrt, floor, ceil
+from my_math import Calculadora
 
-# 2³
-#print(4**0.5) # 2*2*2
-print(floor(5.7888))
+calc = Calculadora()
+
+print(calc.soma(1,10))
+print(calc.sub(150,10))
+print(calc.mult(3,10))
+print(calc.div(100,10))
+
+
+
 
 
